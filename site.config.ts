@@ -46,7 +46,7 @@ export default siteConfig({
   //   '/foo': '067dd719a912471ea9a3ac10710e7fdf',
   //   '/bar': '0be6efce9daf42688f65c76b89f8eb27'
   // }
-  // pageUrlOverrides: null,
+  pageUrlOverrides: null,
 
   // whether to use the default notion navigation style or a custom one with links to
   // important pages. To use `navigationLinks`, set `navigationStyle` to `custom`.
@@ -55,7 +55,7 @@ export default siteConfig({
   navigationLinks: [
      {
        title: 'About',
-       pageId: 'About-b08e10d847b74da2bb6643590294c34e?pvs=4'
+       pageId: 'Resume-Template-3092f8c83a494daaa9da89422cf2b5f0?pvs=4'
      },
      {
        title: 'Contact',
