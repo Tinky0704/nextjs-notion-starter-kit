@@ -282,6 +282,6 @@ export const NotionPage: React.FC<types.PageProps> = ({
       />
 
 //删除     <GitHubShareButton />
-    </>
+//    </>
   )
 }
