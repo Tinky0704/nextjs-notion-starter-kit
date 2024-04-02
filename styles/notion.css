@@ -388,6 +388,10 @@
   display: none;
 }
 
+.notion-equation.notion-equation-block{
+  align-items: center;
+}
+
 .notion-search .searchBar {
   box-shadow: var(--fg-color-0) 0px 1px 0px;
 }
