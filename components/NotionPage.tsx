@@ -281,7 +281,7 @@ export const NotionPage: React.FC<types.PageProps> = ({
         footer={footer}
       />
 
-     <GitHubShareButton />
+//删除     <GitHubShareButton />
     </>
   )
 }
