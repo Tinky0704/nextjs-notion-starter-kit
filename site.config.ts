@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'Tinky-Zhao-6fb1c2cebb144022b85c164c20574320?pvs=4',
+  rootNotionPageId: 'TinkyZhao-com-6fb1c2cebb144022b85c164c20574320?pvs=4',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Welcome to my virtual zone.',
-  domain: 'https://flash-lilac-774.notion.site/Tinky-Zhao-6fb1c2cebb144022b85c164c20574320?pvs=4',
+  domain: 'https://flash-lilac-774.notion.site/TinkyZhao-com-6fb1c2cebb144022b85c164c20574320?pvs=4',
   author: '@Tinky Zhao',
 
   // open graph metadata (optional)
