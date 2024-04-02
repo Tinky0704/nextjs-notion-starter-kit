@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Welcome to my virtual zone.',
+  name: 'TinkyZhao.com',
   domain: 'https://flash-lilac-774.notion.site/TinkyZhao-com-6fb1c2cebb144022b85c164c20574320?pvs=4',
   author: '@Tinky Zhao',
 
