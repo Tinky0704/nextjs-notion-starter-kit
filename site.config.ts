@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'Welcome to my virtual zone.',
   domain: 'https://flash-lilac-774.notion.site/TinkyZhao-com-6fb1c2cebb144022b85c164c20574320?pvs=4',
-  author: '@Tinky Zhao',
+  author: '@Tinky Zhao'，
 
   // open graph metadata (optional)
   //description: 'Example Next.js Notion Starter Kit Site',
